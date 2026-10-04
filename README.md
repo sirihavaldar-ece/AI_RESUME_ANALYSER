@@ -1,0 +1,1 @@
+Built an NLP-based application that helps students understand how well their resume matches selected job roles. The system provides a match score, list important missing skills, and generate a simple learning roadmap.
