@@ -1,0 +1,31 @@
+skill,category,aliases
+Python,Programming,python
+SQL,Database,sql|structured query language
+Excel,Tools,excel|microsoft excel
+Pandas,Data,pandas
+Power BI,Data,power bi|powerbi
+Machine Learning,AI,machine learning|ml
+scikit-learn,AI,scikit-learn|sklearn
+FastAPI,Web,fastapi
+Docker,Tools,docker
+Deep Learning,AI,deep learning
+LLM,AI,llm|large language model|large language models
+RAG,AI,rag|retrieval augmented generation
+APIs,Web,api|apis|rest api|rest apis
+NLP,AI,nlp|natural language processing
+Transformers,AI,transformer|transformers
+Hugging Face,AI,hugging face|huggingface
+OpenCV,AI,opencv
+CNN,AI,cnn|convolutional neural network|convolutional neural networks
+YOLO,AI,yolo
+Git,Tools,git|github
+Java,Programming,java
+C++,Programming,c++
+C#,Programming,c#
+JavaScript,Programming,javascript
+HTML,Web,html
+CSS,Web,css
+NumPy,Data,numpy
+Matplotlib,Data,matplotlib
+Linux,Tools,linux
+AWS,Cloud,aws|amazon web services
